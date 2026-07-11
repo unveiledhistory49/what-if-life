@@ -1,4 +1,4 @@
-import { Scenario } from './types';
+import type { Scenario } from './types';
 
 const DB_KEY = 'whatiflife_scenarios';
 

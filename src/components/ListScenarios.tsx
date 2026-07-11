@@ -1,4 +1,4 @@
-import { Scenario } from '../types';
+import type { Scenario } from '../types';
 import { deleteScenario } from '../storage';
 
 export function ListScenarios({
